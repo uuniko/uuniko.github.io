@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-27T11:47:42.719Z</updated>
+  <updated>2017-01-27T11:50:30.718Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,15 +20,14 @@
     <link href="http://yoursite.com/2017/01/27/%E6%8F%92%E2%99%82%E5%85%A5%E8%A7%86%E9%A2%91/"/>
     <id>http://yoursite.com/2017/01/27/插♂入视频/</id>
     <published>2017-01-27T11:45:18.000Z</published>
-    <updated>2017-01-27T11:47:42.719Z</updated>
+    <updated>2017-01-27T11:50:30.718Z</updated>
     
-    <content type="html"><![CDATA[<video width="480" height="320" controls><br><source src="http://www.acfun.cn/v/ac3430225?shareUid=1180647"><br></video>
+    <content type="html"><![CDATA[<video width="480" height="320" controls><br><source src="<embed height=" 415"="" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" flashvars="aid=1839196&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">"><br></video>
 ]]></content>
     
     <summary type="html">
     
-      &lt;video width=&quot;480&quot; height=&quot;320&quot; controls&gt;&lt;br&gt;&lt;source src=&quot;http://www.acfun.cn/v/ac3430225?shareUid=1180647&quot;&gt;&lt;br&gt;&lt;/video&gt;
-
+      &lt;video width=&quot;480&quot; height=&quot;320&quot; controls&gt;&lt;br&gt;&lt;source src=&quot;&lt;embed height=&quot; 415&quot;=&quot;&quot; width=&quot;544&quot; quality=&quot;high&quot; allowfullscreen=&quot;true&quot; type=&quot;ap
     
     </summary>
     
