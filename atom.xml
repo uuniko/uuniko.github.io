@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-27T11:20:51.438Z</updated>
+  <updated>2017-01-27T11:47:42.719Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>插♂入视频</title>
+    <link href="http://yoursite.com/2017/01/27/%E6%8F%92%E2%99%82%E5%85%A5%E8%A7%86%E9%A2%91/"/>
+    <id>http://yoursite.com/2017/01/27/插♂入视频/</id>
+    <published>2017-01-27T11:45:18.000Z</published>
+    <updated>2017-01-27T11:47:42.719Z</updated>
+    
+    <content type="html"><![CDATA[<video width="480" height="320" controls><br><source src="http://www.acfun.cn/v/ac3430225?shareUid=1180647"><br></video>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;video width=&quot;480&quot; height=&quot;320&quot; controls&gt;&lt;br&gt;&lt;source src=&quot;http://www.acfun.cn/v/ac3430225?shareUid=1180647&quot;&gt;&lt;br&gt;&lt;/video&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>yaho~</title>
