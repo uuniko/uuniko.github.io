@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-27T12:23:32.138Z</updated>
+  <updated>2017-01-27T12:25:29.888Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,15 +20,18 @@
     <link href="http://yoursite.com/2017/01/27/%E6%8F%92%E2%99%82%E5%85%A5%E8%A7%86%E9%A2%91/"/>
     <id>http://yoursite.com/2017/01/27/插♂入视频/</id>
     <published>2017-01-27T11:45:18.000Z</published>
-    <updated>2017-01-27T12:23:32.138Z</updated>
+    <updated>2017-01-27T12:25:29.888Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><p><embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=1839196&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></p>
-<iframe style="width:704px;height:436px;" src="http://cdn.aixifan.com/player/ACFlashPlayer.out.swf?vid=4793020&ref=http://www.acfun.cn/v/ac3430225" id="ACFlashPlayer-re" frameborder="0"></iframe><br><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=28427094&auto=0&height=66"></iframe>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=1839196&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
+
+<iframe style="width:704px;height:436px;" src="http://cdn.aixifan.com/player/ACFlashPlayer.out.swf?vid=4793020&ref=http://www.acfun.cn/v/ac3430225" id="ACFlashPlayer-re" frameborder="0"></iframe>
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=28427094&auto=0&height=66"></iframe>
 ]]></content>
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;&lt;embed height=&quot;415&quot; width=&quot;544&quot; quality=&quot;high&quot; allowfullscreen=&quot;true&quot; type=&quot;application
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;embed height=&quot;415&quot; width=&quot;544&quot; quality=&quot;high&quot; allowfullscreen=&quot;true&quot; type=&quot;application/x-
     
     </summary>
     
