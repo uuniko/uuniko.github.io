@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-27T11:57:55.641Z</updated>
+  <updated>2017-01-27T12:01:46.102Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://yoursite.com/2017/01/27/%E6%8F%92%E2%99%82%E5%85%A5%E8%A7%86%E9%A2%91/"/>
     <id>http://yoursite.com/2017/01/27/插♂入视频/</id>
     <published>2017-01-27T11:45:18.000Z</published>
-    <updated>2017-01-27T11:57:55.641Z</updated>
+    <updated>2017-01-27T12:01:46.102Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"autoplay":false,"theme":"#FADFA3","loop":true,"video":{"url":"http://www.bilibili.com/video/av1839196/","pic":"http://www.bilibili.com/video/av1839196/"},"danmaku":{"api":"http://dplayer.daoapp.io","id":"9E2E3368B56CDBB4","token":"tokendemo"}});</script>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"autoplay":false,"theme":"#FADFA3","loop":true,"video":{"url":"//static.hdslb.com/miniloader.swf?aid=1839196&page=1","pic":"//static.hdslb.com/miniloader.swf?aid=1839196&page=1"},"danmaku":{"api":"http://dplayer.daoapp.io","id":"9E2E3368B56CDBB4","token":"tokendemo"}});</script>
 ]]></content>
     
     <summary type="html">
