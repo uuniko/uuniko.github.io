@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-27T13:19:20.920Z</updated>
+  <updated>2017-01-28T10:07:50.058Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>放弃迁移至coding</title>
+    <link href="http://yoursite.com/2017/01/28/%E6%94%BE%E5%BC%83%E8%BF%81%E7%A7%BB%E8%87%B3coding/"/>
+    <id>http://yoursite.com/2017/01/28/放弃迁移至coding/</id>
+    <published>2017-01-28T10:05:38.000Z</published>
+    <updated>2017-01-28T10:07:50.058Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><p>有人说githb国内较慢，于是下午着手迁移至coding，然而又是死活传不上的情况，无奈放弃，( ´_ゝ`)旦</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;有人说githb国内较慢，于是下午着手迁移至coding，然而又是死活传不上的情况，无奈放弃，( ´_ゝ`)旦&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+    
+  </entry>
   
   <entry>
     <title>插入视频测试</title>
