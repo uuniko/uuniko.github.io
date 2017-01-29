@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-27T13:19:20.920Z</updated>
+  <updated>2017-01-29T01:15:08.140Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>折腾</title>
+    <link href="http://yoursite.com/2017/01/29/%E6%8A%98%E8%85%BE/"/>
+    <id>http://yoursite.com/2017/01/29/折腾/</id>
+    <published>2017-01-29T01:07:29.000Z</published>
+    <updated>2017-01-29T01:15:08.140Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><p>刚刚搭了一个贴吧云签到<br>过去用别人签到脚本，嫌弃它需要手动点开贴吧才会签到<br>这学生一放假啊，难免就闲到蛋疼<br>⊂彡☆))д`)闲个鬼，还几个月高考你不去看书</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;刚刚搭了一个贴吧云签到&lt;br&gt;过去用别人签到脚本，嫌弃它需要手动点开贴吧才会签到&lt;br&gt;这学生一放假啊，难免就闲到蛋疼&lt;br&gt;⊂彡☆))д`)闲个鬼，还几个月高考你不去看书&lt;
+    
+    </summary>
+    
+    
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+    
+  </entry>
   
   <entry>
     <title>插入视频测试</title>

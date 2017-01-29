@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/01/29/%E6%8A%98%E8%85%BE/</loc>
+    <lastmod>2017-01-29T01:15:08.140Z</lastmod>
+    <data>
+        <display>
+        <title>折腾</title>
+        <pubTime>2017-01-29T01:07:29.000Z</pubTime>
+        
+        <tag>test </tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>http://yoursite.com/2017/01/27/new/</loc>
+    <lastmod>2017-01-28T07:51:07.565Z</lastmod>
+    <data>
+        <display>
+        <title>yaho~</title>
+        <pubTime>2017-01-27T10:26:43.000Z</pubTime>
+        
+        <tag>随笔 </tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/01/27/%E6%8F%92%E2%99%82%E5%85%A5%E8%A7%86%E9%A2%91/</loc>
+    <lastmod>2017-01-27T13:19:20.920Z</lastmod>
+    <data>
+        <display>
+        <title>插入视频测试</title>
+        <pubTime>2017-01-27T11:45:18.000Z</pubTime>
+        
+        <tag>test </tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
