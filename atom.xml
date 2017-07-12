@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-06-08T02:30:12.381Z</updated>
+  <updated>2017-07-12T09:21:47.117Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客的意义</title>
+    <link href="http://yoursite.com/2017/07/12/new/"/>
+    <id>http://yoursite.com/2017/07/12/new/</id>
+    <published>2017-07-12T08:51:15.000Z</published>
+    <updated>2017-07-12T09:21:47.117Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><ul>
+<li><strong><del>装逼的意义</del></strong></li>
+</ul>
+<blockquote>
+<p><img src="捕2获.png" alt="avatar"><br>来自farbox</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;del&gt;装逼的意义&lt;/del&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;捕2获.png&quot; a
+    
+    </summary>
+    
+    
+      <category term="markdown练习" scheme="http://yoursite.com/tags/markdown%E7%BB%83%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>5月（考！）</title>
@@ -109,8 +139,8 @@
   
   <entry>
     <title>yaho~</title>
-    <link href="http://yoursite.com/2017/01/27/new/"/>
-    <id>http://yoursite.com/2017/01/27/new/</id>
+    <link href="http://yoursite.com/2017/01/27/yaho/"/>
+    <id>http://yoursite.com/2017/01/27/yaho/</id>
     <published>2017-01-27T10:26:43.000Z</published>
     <updated>2017-01-28T07:51:07.565Z</updated>
     
