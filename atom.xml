@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-13T02:47:09.406Z</updated>
+  <updated>2017-08-13T02:57:39.794Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,18 +16,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>pixel art</title>
-    <link href="http://yoursite.com/2017/08/13/pixel-art/"/>
-    <id>http://yoursite.com/2017/08/13/pixel-art/</id>
-    <published>2017-08-13T01:55:14.000Z</published>
-    <updated>2017-08-13T02:47:09.406Z</updated>
+    <title>new</title>
+    <link href="http://yoursite.com/2017/08/13/new/"/>
+    <id>http://yoursite.com/2017/08/13/new/</id>
+    <published>2017-08-13T02:53:32.000Z</published>
+    <updated>2017-08-13T02:57:39.794Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><p>tumblr上个人比较喜欢的一些作品<br><img src="\img\tumblr_osb4ggFvDw1vjxiz1o1_1280.gif" alt="1"><br><img src="\img\tumblr_oorhtkK2K71vjxiz1o1_540.gif" alt="2"><br><img src="\img\tumblr_om6xffbulT1vjxiz1o1_540.gif" alt="3"><br><img src="\img\tumblr_oi2iutcu9J1vjxiz1o1_540.gif" alt="4"><br><img src="‪\img\tumblr_og44lgPyan1vjxiz1o1_1280.gif" alt="5"><br><img src="\img\tumblr_og44jmp8oU1vjxiz1o1_1280.gif" alt="6"><br><img src="‪‪\img\tumblr_ofqrhdyeIG1vjxiz1o1_540.gif" alt="7"><br><img src="\img\tumblr_ofqrfomRfR1vjxiz1o1_540.gif" alt="8"><br><img src="\img\tumblr_ofqrcfz0K41vjxiz1o1_540.gif" alt="9"><br><img src="\img\tumblr_ofqrbmfdEh1vjxiz1o1_540.gif" alt="10"><br><img src="\img\tumblr_ofqra6esae1vjxiz1o1_540.gif" alt="11"></p>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><p><img src="\img\7.gif" alt="7"></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;tumblr上个人比较喜欢的一些作品&lt;br&gt;&lt;img src=&quot;\img\tumblr_osb4ggFvDw1vjxiz1o1_1280.gif&quot; alt=&quot;1&quot;&gt;&lt;br&gt;&lt;
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;&lt;img src=&quot;\img\7.gif&quot; alt=&quot;7&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>pixel art</title>
+    <link href="http://yoursite.com/2017/08/13/pixel-art/"/>
+    <id>http://yoursite.com/2017/08/13/pixel-art/</id>
+    <published>2017-08-13T01:55:14.000Z</published>
+    <updated>2017-08-13T03:17:01.679Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><p>tumblr上个人比较喜欢的一些作品<br><img src="/img/tumblr_osb4ggFvDw1vjxiz1o1_1280.gif" alt="1"><br><img src="/img/tumblr_oorhtkK2K71vjxiz1o1_540.gif" alt="2"><br><img src="/img/tumblr_om6xffbulT1vjxiz1o1_540.gif" alt="3"><br><img src="/img/tumblr_oi2iutcu9J1vjxiz1o1_540.gif" alt="4">       </p>
+<p><img src="/img/tumblr_og44jmp8oU1vjxiz1o1_1280.gif" alt="6">    </p>
+<p><img src="/img/7.gif" alt="7">     </p>
+<p><img src="/img/tumblr_ofqrfomRfR1vjxiz1o1_540.gif" alt="8"><br><img src="/img/tumblr_ofqrcfz0K41vjxiz1o1_540.gif" alt="9"><br><img src="/img/tumblr_ofqrbmfdEh1vjxiz1o1_540.gif" alt="10"><br><img src="/img/tumblr_ofqra6esae1vjxiz1o1_540.gif" alt="11"></p>
+<p><img src="‪\img/5.gif" alt="5">        </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;tumblr上个人比较喜欢的一些作品&lt;br&gt;&lt;img src=&quot;/img/tumblr_osb4ggFvDw1vjxiz1o1_1280.gif&quot; alt=&quot;1&quot;&gt;&lt;br&gt;&lt;
     
     </summary>
     
