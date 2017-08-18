@@ -22,11 +22,12 @@
     <published>2017-08-13T01:55:14.000Z</published>
     <updated>2017-08-13T03:39:13.754Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><!-- build time:Thu Aug 17 2017 16:18:09 GMT+0800 (中国标准时间) --><p>tumblr上个人比较喜欢的一些作品<br><img src="\img\tumblr_osb4ggFvDw1vjxiz1o1_1280.gif" alt="1"><br><img src="\img\tumblr_oorhtkK2K71vjxiz1o1_540.gif" alt="2"><br><img src="\img\tumblr_om6xffbulT1vjxiz1o1_540.gif" alt="3"><br><img src="\img\tumblr_oi2iutcu9J1vjxiz1o1_540.gif" alt="4"><br><img src="\img\tumblr_og44lgPyan1vjxiz1o1_1280.gif" alt="5"><br><img src="\img\tumblr_og44jmp8oU1vjxiz1o1_1280.gif" alt="6"><br><img src="\img\7.gif" alt="7"><br><img src="\img\tumblr_ofqrfomRfR1vjxiz1o1_540.gif" alt="8"><br><img src="\img\tumblr_ofqrcfz0K41vjxiz1o1_540.gif" alt="9"><br><img src="\img\tumblr_ofqrbmfdEh1vjxiz1o1_540.gif" alt="10"><br><img src="\img\tumblr_ofqra6esae1vjxiz1o1_540.gif" alt="11"></p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><p>tumblr上个人比较喜欢的一些作品<br><img src="\img\tumblr_osb4ggFvDw1vjxiz1o1_1280.gif" alt="1"><br><img src="\img\tumblr_oorhtkK2K71vjxiz1o1_540.gif" alt="2"><br><img src="\img\tumblr_om6xffbulT1vjxiz1o1_540.gif" alt="3"><br><img src="\img\tumblr_oi2iutcu9J1vjxiz1o1_540.gif" alt="4"><br><img src="\img\tumblr_og44lgPyan1vjxiz1o1_1280.gif" alt="5"><br><img src="\img\tumblr_og44jmp8oU1vjxiz1o1_1280.gif" alt="6"><br><img src="\img\7.gif" alt="7"><br><img src="\img\tumblr_ofqrfomRfR1vjxiz1o1_540.gif" alt="8"><br><img src="\img\tumblr_ofqrcfz0K41vjxiz1o1_540.gif" alt="9"><br><img src="\img\tumblr_ofqrbmfdEh1vjxiz1o1_540.gif" alt="10"><br><img src="\img\tumblr_ofqra6esae1vjxiz1o1_540.gif" alt="11"></p>
+]]></content>
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;!-- build time:Thu Aug 17 2017 16:18:09 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;tumblr上个人比较喜欢的一些作品&lt;br&gt;&lt;im
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;tumblr上个人比较喜欢的一些作品&lt;br&gt;&lt;img src=&quot;\img\tumblr_osb4ggFvDw1vjxiz1o1_1280.gif&quot; alt=&quot;1&quot;&gt;&lt;br&gt;&lt;
     
     </summary>
     
@@ -40,11 +41,25 @@
     <published>2017-08-01T10:13:47.000Z</published>
     <updated>2017-08-01T12:46:07.876Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><!-- build time:Thu Aug 17 2017 16:18:09 GMT+0800 (中国标准时间) --><h3 id="事出于昨晚7点左右，我在qitu-rom官网上看见了7月份刚出的新包，基于cm12-1的omini。看作者描述貌似要比我原来用的包好一些，于是着手开始折腾。"><a href="#事出于昨晚7点左右，我在qitu-rom官网上看见了7月份刚出的新包，基于cm12-1的omini。看作者描述貌似要比我原来用的包好一些，于是着手开始折腾。" class="headerlink" title="事出于昨晚7点左右，我在qitu rom官网上看见了7月份刚出的新包，基于cm12.1的omini。看作者描述貌似要比我原来用的包好一些，于是着手开始折腾。"></a>事出于昨晚7点左右，我在qitu rom官网上看见了7月份刚出的新包，基于cm12.1的omini。看作者描述貌似要比我原来用的包好一些，于是着手开始折腾。</h3><ul><li><img src="/img/捕获.PNG" alt="“图片”"></li></ul><ol><li><p>新版奇兔取消了软件内下载，只提供了百度云链接，其实原先下载速度慢的要死，估计懒得优化干脆取消了，这个包300m多一点，idm多线程几分钟就结束了。</p></li><li><p>开始用奇兔recovery刷入，不知为何速度很慢，等了有十多分钟，进度条没反应，界面显示<strong>unmount of /system failed: no such volume</strong> 并且界面卡住不动。扣电池，重启。居然成功进入了开机界面。使用中发现信号基本没有（能搜到信号但是无法打电话发短信）这是cm12通病？我上次刷的包也有这样的问题，重启就能解决了，然而这个包不行。而且发现这个包删除了cm中的好多功能，流畅度不及原版，且下拉菜单无法自定义砖块。刷机时报错的原因？，网上搜索发现可能是分区的问题，下了个分区工具，悲剧的开端~</p></li><li><p>使用了分区工具后，手机黑屏且一旦接上电池就自动开机（我怎么知道的？因为一连电脑就会出现无数个磁盘分区。。）recovery无法进入、fastboot无法进入。。心里已经开始想着如何找老爸换个新手机了。不抱希望地搜了一下救砖教程，还好小米有线刷工具。下了个最新版本的，提示缺少net3.5,这win10又装不了。试了下旧版本的，居然装上了。下载了官方包准备刷入。还好工具能正确搜到我的手机，按照教程用diskgenius把设备的所有分区删除，工具在会显示com*,将官方包解压到一个目录，刷入开始。</p></li><li><p>速度很快，结束后的第一次开机需要较长的时间，开机后各功能正常，救砖结束。</p></li><li>耗时约5个小时，包括了备份重装资料的时间，过程有惊无险。更换手机计划被告失败。</li></ol><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><h3 id="事出于昨晚7点左右，我在qitu-rom官网上看见了7月份刚出的新包，基于cm12-1的omini。看作者描述貌似要比我原来用的包好一些，于是着手开始折腾。"><a href="#事出于昨晚7点左右，我在qitu-rom官网上看见了7月份刚出的新包，基于cm12-1的omini。看作者描述貌似要比我原来用的包好一些，于是着手开始折腾。" class="headerlink" title="事出于昨晚7点左右，我在qitu rom官网上看见了7月份刚出的新包，基于cm12.1的omini。看作者描述貌似要比我原来用的包好一些，于是着手开始折腾。"></a>事出于昨晚7点左右，我在qitu rom官网上看见了7月份刚出的新包，基于cm12.1的omini。看作者描述貌似要比我原来用的包好一些，于是着手开始折腾。</h3><ul>
+<li><img src="/img/捕获.PNG" alt="“图片”">   </li>
+</ul>
+<ol>
+<li><p>新版奇兔取消了软件内下载，只提供了百度云链接，其实原先下载速度慢的要死，估计懒得优化干脆取消了，这个包300m多一点，idm多线程几分钟就结束了。    </p>
+</li>
+<li><p>开始用奇兔recovery刷入，不知为何速度很慢，等了有十多分钟，进度条没反应，界面显示<strong>unmount of /system failed: no such volume</strong> 并且界面卡住不动。扣电池，重启。居然成功进入了开机界面。使用中发现信号基本没有（能搜到信号但是无法打电话发短信）这是cm12通病？我上次刷的包也有这样的问题，重启就能解决了，然而这个包不行。而且发现这个包删除了cm中的好多功能，流畅度不及原版，且下拉菜单无法自定义砖块。刷机时报错的原因？，网上搜索发现可能是分区的问题，下了个分区工具，悲剧的开端~       </p>
+</li>
+<li><p>使用了分区工具后，手机黑屏且一旦接上电池就自动开机（我怎么知道的？因为一连电脑就会出现无数个磁盘分区。。）recovery无法进入、fastboot无法进入。。心里已经开始想着如何找老爸换个新手机了。不抱希望地搜了一下救砖教程，还好小米有线刷工具。下了个最新版本的，提示缺少net3.5,这win10又装不了。试了下旧版本的，居然装上了。下载了官方包准备刷入。还好工具能正确搜到我的手机，按照教程用diskgenius把设备的所有分区删除，工具在会显示com*,将官方包解压到一个目录，刷入开始。</p>
+</li>
+<li><p>速度很快，结束后的第一次开机需要较长的时间，开机后各功能正常，救砖结束。       </p>
+</li>
+<li>耗时约5个小时，包括了备份重装资料的时间，过程有惊无险。更换手机计划被告失败。</li>
+</ol>
+]]></content>
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;!-- build time:Thu Aug 17 2017 16:18:09 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;事出于昨晚7点左右，我在qitu-rom
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h3 id=&quot;事出于昨晚7点左右，我在qitu-rom官网上看见了7月份刚出的新包，基于cm12-1的omini。看作者描述貌似要比我原来用的包好一些，于是着手开始折腾。&quot;&gt;&lt;a
     
     </summary>
     
@@ -58,11 +73,16 @@
     <published>2017-07-12T08:51:15.000Z</published>
     <updated>2017-08-01T11:18:32.944Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><!-- build time:Thu Aug 17 2017 16:18:09 GMT+0800 (中国标准时间) --><h3 id="装逼的意义"><a href="#装逼的意义" class="headerlink" title="装逼的意义"></a><strong><del>装逼的意义</del></strong></h3><hr><blockquote><p><img src="https://raw.githubusercontent.com/uuniko/uuniko.github.io/master/img/%E6%8D%952%E8%8E%B7.PNG" alt="avatar"><br>..来自farbox</p></blockquote><p>google上查阅Clowwindy事件时偶然看到的</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><h3 id="装逼的意义"><a href="#装逼的意义" class="headerlink" title="装逼的意义"></a><strong><del>装逼的意义</del></strong></h3><hr>
+<blockquote>
+<p><img src="https://raw.githubusercontent.com/uuniko/uuniko.github.io/master/img/%E6%8D%952%E8%8E%B7.PNG" alt="avatar"><br>..来自farbox</p>
+</blockquote>
+<p>google上查阅Clowwindy事件时偶然看到的</p>
+]]></content>
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;!-- build time:Thu Aug 17 2017 16:18:09 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;装逼的意义&quot;&gt;&lt;a href=&quot;#装逼的
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h3 id=&quot;装逼的意义&quot;&gt;&lt;a href=&quot;#装逼的意义&quot; class=&quot;headerlink&quot; title=&quot;装逼的意义&quot;&gt;&lt;/a&gt;&lt;strong&gt;&lt;del&gt;装逼的意义&lt;/d
     
     </summary>
     
@@ -78,11 +98,12 @@
     <published>2017-06-08T01:52:42.000Z</published>
     <updated>2017-06-08T02:30:12.381Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><!-- build time:Thu Aug 17 2017 16:18:09 GMT+0800 (中国标准时间) --><p>好久没有管理博客了，git命令都忘得所剩无几。一直没碰也无从提笔，昨天全国高考，就来说说考试吧<br>一直以来我总是觉得自己是个不会考试的人，每逢关键考试都是状态不佳。<br>遥想半个月前的高考，顶好了旅馆也静不下心来看书，就戴着耳机往窗外。当时所住的位置离考场约15分钟的路程，旁边就是街道，旅馆的隔音极差，外面的汽车声、小孩的哭啼、争吵等不绝于耳。<br>考试为期两天，第二天上午结束。<br>1.论我的技能考<br>四月份领到的考纲其实根本没多少时间看，记得那次的计算机模拟题有600道！考试前天我还特意向班主任请了一天假，把后面office相关都一道道查了一遍，赴考当天才把应用文看完。虽说时间紧，但好歹认真看了，也算是胸有成竹了。<br>结果一出<br>计算机：51 应用文：75<br>最擅长的一门考砸了，记得考试时我估摸着得有7、80吧，原因未知<br>遂哭瞎<br>2.文化考<br>数学。从小就是数学白痴，这次为了它也恶补了好一阵。记得从这个学期初就开始发力了，然而真的乏力。寒假补课毫无成效，上课也是似懂非懂，只会做基础题，后面大题完全放弃的情况下，分就从没及格过。记得我们当时做过去年的考卷，据说出了名的简单。试卷发下来，53。<br>考试当天，心里那就一个愁。基础题N道没做出来，大题又看不懂，只能坐着干等，还正值气温高，郁闷的不行。分数：52<br>语文。这门我几乎没怎么复习，复习的古诗词也是半生不熟，不过当天倒是全会做的。阅读理解基本靠猜，那天的课内文印象特别深，因为我复习时做过3遍，依然没记牢。考试时只能自己组织，勉强把空填满了。作文部分自认为发挥的不错，小作文扩写后半部分有些偏题，但意思达到了，也是我写过最好的一次。大作文无异于生搬硬套，题目我都忘了，略。61<br>英语。擅长科目，当时没觉得自己写的多好，作文也只是平平淡淡，具体没什么印象了，只记得听力走神了，而且那天带的收音机信号极差，各种姿势都听不清。83<br>写到后面在想要不要分成两篇上传，想想好烦，放弃。</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><p>  好久没有管理博客了，git命令都忘得所剩无几。一直没碰也无从提笔，昨天全国高考，就来说说考试吧<br>一直以来我总是觉得自己是个不会考试的人，每逢关键考试都是状态不佳。<br>遥想半个月前的高考，顶好了旅馆也静不下心来看书，就戴着耳机往窗外。当时所住的位置离考场约15分钟的路程，旁边就是街道，旅馆的隔音极差，外面的汽车声、小孩的哭啼、争吵等不绝于耳。<br>考试为期两天，第二天上午结束。<br>1.论我的技能考<br>  四月份领到的考纲其实根本没多少时间看，记得那次的计算机模拟题有600道！考试前天我还特意向班主任请了一天假，把后面office相关都一道道查了一遍，赴考当天才把应用文看完。虽说时间紧，但好歹认真看了，也算是胸有成竹了。<br>  结果一出<br>  计算机：51 应用文：75<br>  最擅长的一门考砸了，记得考试时我估摸着得有7、80吧，原因未知<br>  遂哭瞎<br>  2.文化考<br>    数学。从小就是数学白痴，这次为了它也恶补了好一阵。记得从这个学期初就开始发力了，然而真的乏力。寒假补课毫无成效，上课也是似懂非懂，只会做基础题，后面大题完全放弃的情况下，分就从没及格过。记得我们当时做过去年的考卷，据说出了名的简单。试卷发下来，53。<br>    考试当天，心里那就一个愁。基础题N道没做出来，大题又看不懂，只能坐着干等，还正值气温高，郁闷的不行。分数：52<br>    语文。这门我几乎没怎么复习，复习的古诗词也是半生不熟，不过当天倒是全会做的。阅读理解基本靠猜，那天的课内文印象特别深，因为我复习时做过3遍，依然没记牢。考试时只能自己组织，勉强把空填满了。作文部分自认为发挥的不错，小作文扩写后半部分有些偏题，但意思达到了，也是我写过最好的一次。大作文无异于生搬硬套，题目我都忘了，略。61<br>    英语。擅长科目，当时没觉得自己写的多好，作文也只是平平淡淡，具体没什么印象了，只记得听力走神了，而且那天带的收音机信号极差，各种姿势都听不清。83<br>  写到后面在想要不要分成两篇上传，想想好烦，放弃。  </p>
+]]></content>
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;!-- build time:Thu Aug 17 2017 16:18:09 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;好久没有管理博客了，git命令都忘得所剩无几。一直
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;  好久没有管理博客了，git命令都忘得所剩无几。一直没碰也无从提笔，昨天全国高考，就来说说考试吧&lt;br&gt;一直以来我总是觉得自己是个不会考试的人，每逢关键考试都是状态不佳。&lt;
     
     </summary>
     
@@ -94,13 +115,22 @@
     <link href="http://yoursite.com/2017/02/07/3ds%E9%99%8D%E7%BA%A7%E4%B8%8Ea9%E4%BA%B2%E6%B5%8B/"/>
     <id>http://yoursite.com/2017/02/07/3ds降级与a9亲测/</id>
     <published>2017-02-07T11:04:16.000Z</published>
-    <updated>2017-07-12T09:58:09.284Z</updated>
+    <updated>2017-08-18T02:18:05.866Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><!-- build time:Thu Aug 17 2017 16:18:09 GMT+0800 (中国标准时间) --><p>今天逛某贴吧发现新小三已经可以无卡破解了，并且支持最新11.2.回想起半年前因一时手贱更新系统，一度以为和破解无缘，如今安奈不住心中的激动立马翻出小三做实验ﾟ ∀ﾟ)ノ<br>以下为这次折腾的心得与体会，我才懒得写教程呢<br><img src="http://storage1.imgchr.com/C6Zse.jpg" alt="">可使用自制主题<br>破解的思路依然是通过将系统固件降级至2.1，此版本的浏览器漏洞可以导出每台机器独一无二的otp.bin并注入firm固件中来启动自制系统即达到破解的目的</p><p>1.这次的破解主要利用播放器中m4a格式的漏洞来进入hbl(the home brew launcher)</p><p><img src="http://storage1.imgchr.com/C6AxO.jpg" alt=""></p><p>它可以用来运行各种自制程序，包括这次用到的safehax引导的d9(Decrypt9WIP)一款固件备份/注入程序,将当前的系统替换为2.1版本。绝对不能忘记备份当前系统与sd卡中的文件，否则变砖救不回来。<br>sd卡至少4GB，降级后千万别合盖，淦！血的教训，也不要手贱点升级，必定砖。</p><p>2.完成降级之后，浏览器输入a9的安装地址进行安装并重启</p><p>3.由于luma6.6加入了新三的cpu超频选项，以前没有对新三做优化的老游戏通过这个选项可以提升帧数（战国无双不掉帧了耶）当然老三是看不到这个的</p><p><img src="http://storage1.imgchr.com/C6VMD.jpg" alt=""><br>( ´_ゝ`)<br>这卡带以后就当收藏了把<br>（先写到这，以后再改错修正）</p><p>当天下午任天堂更新了11.3修复了破解漏洞。。。</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><p>今天逛某贴吧发现新小三已经可以无卡破解了，并且支持最新11.2.回想起半年前因一时手贱更新系统，一度以为和破解无缘，如今安奈不住心中的激动立马翻出小三做实验ﾟ ∀ﾟ)ノ<br>以下为这次折腾的心得与体会，我才懒得写教程呢<br>可使用自制主题<br>破解的思路依然是通过将系统固件降级至2.1，此版本的浏览器漏洞可以导出每台机器独一无二的otp.bin并注入firm固件中来启动自制系统即达到破解的目的</p>
+<ul>
+<li><p>这次的破解主要利用播放器中m4a格式的漏洞来进入hbl(the home brew launcher)<br>可以用来运行各种自制程序，包括这次用到的safehax引导的d9(Decrypt9WIP)一款固件备份/注入程序,将当前的系统替换为2.1版本。绝对不能忘记备份当前系统与sd卡中的文件，否则变砖救不回来。<br>sd卡至少4GB，降级后千万别合盖，淦！血的教训，也不要手贱点升级，必定砖。<br>完成降级之后，浏览器输入a9的安装地址进行安装并重启</p>
+</li>
+<li><p>由于luma6.6加入了新三的cpu超频选项，以前没有对新三做优化的老游戏通过这个选项可以提升帧数（战国无双不掉帧了耶）当然老三是看不到这个的<br><img src="/img/C6VMD.jpg" alt="1"></p>
+</li>
+</ul>
+<p>( ´_ゝ`)<br>这卡带以后就当收藏了把<br>（先写到这，以后再改错修正）</p>
+<p>当天下午任天堂更新了11.3修复了破解漏洞。。。</p>
+]]></content>
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;!-- build time:Thu Aug 17 2017 16:18:09 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;今天逛某贴吧发现新小三已经可以无卡破解了，并且支持
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;今天逛某贴吧发现新小三已经可以无卡破解了，并且支持最新11.2.回想起半年前因一时手贱更新系统，一度以为和破解无缘，如今安奈不住心中的激动立马翻出小三做实验ﾟ ∀ﾟ)ノ&lt;br
     
     </summary>
     
@@ -116,11 +146,12 @@
     <published>2017-01-29T01:07:29.000Z</published>
     <updated>2017-01-29T01:17:59.753Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><!-- build time:Thu Aug 17 2017 16:18:09 GMT+0800 (中国标准时间) --><p>刚刚搭了一个贴吧云签到<br>过去用别人签到脚本，嫌弃它需要手动点开贴吧才会签到 地址：<a href="http://uunikotieba.pe.hu/" target="_blank" rel="external">http://uunikotieba.pe.hu/</a><br>这学生一放假啊，难免就闲到蛋疼<br>⊂彡☆))д`)闲个鬼，还几个月高考你不去看书</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><p>刚刚搭了一个贴吧云签到<br>过去用别人签到脚本，嫌弃它需要手动点开贴吧才会签到 地址：<a href="http://uunikotieba.pe.hu/" target="_blank" rel="external">http://uunikotieba.pe.hu/</a><br>这学生一放假啊，难免就闲到蛋疼<br>⊂彡☆))д`)闲个鬼，还几个月高考你不去看书</p>
+]]></content>
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;!-- build time:Thu Aug 17 2017 16:18:09 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;刚刚搭了一个贴吧云签到&lt;br&gt;过去用别人签到脚本，
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;刚刚搭了一个贴吧云签到&lt;br&gt;过去用别人签到脚本，嫌弃它需要手动点开贴吧才会签到 地址：&lt;a href=&quot;http://uunikotieba.pe.hu/&quot; target=
     
     </summary>
     
@@ -136,11 +167,15 @@
     <published>2017-01-27T11:45:18.000Z</published>
     <updated>2017-01-27T13:19:20.920Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><!-- build time:Thu Aug 17 2017 16:18:09 GMT+0800 (中国标准时间) --><embed height="415" width="544" quality="high" allowfullscreen type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=1839196&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=28427094&auto=0&height=66"></iframe><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=1839196&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
+
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=28427094&auto=0&height=66"></iframe>
+]]></content>
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;!-- build time:Thu Aug 17 2017 16:18:09 GMT+0800 (中国标准时间) --&gt;&lt;embed height=&quot;415&quot; width=&quot;5
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;embed height=&quot;415&quot; width=&quot;544&quot; quality=&quot;high&quot; allowfullscreen=&quot;true&quot; type=&quot;application/x-
     
     </summary>
     
@@ -156,11 +191,12 @@
     <published>2017-01-27T10:26:43.000Z</published>
     <updated>2017-08-01T12:49:03.429Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><!-- build time:Thu Aug 17 2017 16:18:09 GMT+0800 (中国标准时间) --><p>自己都想不到哦，文科生也会敲代码(＾o＾)ﾉ，虽然大部分都是复制粘贴来的(つд⊂)<br>就在这除夕夜弄了个微博，虽然还没绑定个性域名，单单搭建hexo就花了一下午呢(*ﾟーﾟ)<br>还好洒家悟性高呢，半小时又装上了评论，虽然肯定没人留言( ´д`)</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><p>自己都想不到哦，文科生也会敲代码(＾o＾)ﾉ，虽然大部分都是复制粘贴来的(つд⊂)<br>就在这除夕夜弄了个微博，虽然还没绑定个性域名，单单搭建hexo就花了一下午呢(*ﾟーﾟ)<br>还好洒家悟性高呢，半小时又装上了评论，虽然肯定没人留言( ´д`)</p>
+]]></content>
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;!-- build time:Thu Aug 17 2017 16:18:09 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;自己都想不到哦，文科生也会敲代码(＾o＾)ﾉ，虽然
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;自己都想不到哦，文科生也会敲代码(＾o＾)ﾉ，虽然大部分都是复制粘贴来的(つд⊂)&lt;br&gt;就在这除夕夜弄了个微博，虽然还没绑定个性域名，单单搭建hexo就花了一下午呢(*ﾟー
     
     </summary>
     
